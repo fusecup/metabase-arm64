@@ -41,6 +41,3 @@
 Feel free to customize these instructions as needed for your specific setup and requirements.
 
 Based of [Metabase issue for supporting ARM](https://github.com/metabase/metabase/issues/13119) and [loancrate/metabase-arm64](https://github.com/loancrate/metabase-arm64)
-
-
-### Portainer and Raspberry Pi Setup Instructions
