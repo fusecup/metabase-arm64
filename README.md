@@ -1,4 +1,4 @@
-# Portainer and Raspberry Pi Setup Instructions(Metabase on ARM64) 
+# Portainer and Raspberry Pi Setup Instructions (Metabase on ARM64) 
 
 ![portainer_screenshot](https://github.com/fusecup/metabase-arm64/assets/2886380/1b7e2f1d-40a7-4073-9a0b-65749ee98bcb)
 
