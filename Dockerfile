@@ -1,7 +1,7 @@
 ARG metabase_repo=metabase
 
 # https://hub.docker.com/r/metabase/metabase/tags
-ARG metabase_version=v0.50.26
+ARG metabase_version=v0.50.31
 
 FROM metabase/${metabase_repo}:${metabase_version} as metabase
 
