@@ -5,7 +5,7 @@ volumes:
 
 services:
   metabase:
-    image: metabase:v0.55.8.6
+    image: metabase/metabase:v0.55.8.6
     hostname: metabase
     restart: unless-stopped
     volumes:
