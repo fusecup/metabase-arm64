@@ -5,9 +5,7 @@ volumes:
 
 services:
   metabase:
-    image: metabase
-    build:
-      context: .
+    image: metabase:v0.55.8.6
     hostname: metabase
     restart: unless-stopped
     volumes:
